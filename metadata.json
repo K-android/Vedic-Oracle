@@ -1,0 +1,5 @@
+{
+  "name": "Vedic Oracle AI",
+  "description": "A sophisticated Vedic Astrology assistant providing personalized readings based on birth details using Gemini AI.",
+  "requestFramePermissions": ["geolocation"]
+}
